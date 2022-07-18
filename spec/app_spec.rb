@@ -1,4 +1,4 @@
-describe 'the program' do
+pdescribe 'the program' do
   it 'has a file app.rb' do
     expect(File).to exist("app.rb")
   end
